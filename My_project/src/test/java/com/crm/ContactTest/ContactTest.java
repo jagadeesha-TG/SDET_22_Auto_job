@@ -19,6 +19,11 @@ public class ContactTest {
 		{
 			System.out.println("4");
 		}
+		@Test
+		public void cloneContact()
+		{
+			System.out.println("5");
+		}
 	
 
 }
